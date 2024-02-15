@@ -1,7 +1,7 @@
 # Joops R.W.A scooter app
 This project contains the app built for the Joops R.W.A electric rental scooter project. 
 
-https://ark.io/projects/ark-scooters
+https://www.joops.app
 
 ## Installation
 ### Android
