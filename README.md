@@ -5,16 +5,8 @@ https://www.joops.app
 
 ## Installation
 ### Android
-1. Download the APK in `apk/`.
-2. Allow app installs from external sources in the smartphone settings.
-3. Install the APK.
-4. Open the app.
-
 ### IOS
-Not possible because I currently don't have developer certificates for this project. If you want to run this app on iOS you have to 
-manually build it. See more information below.
-
-## Building manually (Appcelerator account required)
+## Building manually
 1. Download [Appcelerator Studio](http://appcelerator.com).
 2. Create an [Appcelerator account](https://platform.axway.com/#/signup)
 3. Log into the [Appcelerator Platform](https://platform.axway.com)
@@ -41,9 +33,6 @@ manually build it. See more information below.
 4. Building will take a minute depending on your machine.
 5. Once building is completed the app should automatically be installed and started on your simulator.
 
-## Credits
-
-- [e-m-s-y](https://github.com/e-m-s-y)
 
 ## License
 
