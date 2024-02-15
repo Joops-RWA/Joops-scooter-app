@@ -1,4 +1,4 @@
-# Ark scooter app
+# Joops R.W.A scooter app
 This project contains the app built for the Tier-0 Ark Scooters project. 
 
 https://ark.io/projects/ark-scooters
